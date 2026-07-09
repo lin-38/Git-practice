@@ -1,3 +1,2 @@
 # Git Practice
-My first Git repository.
-Created by Aylin
+This repository is for learning Git and GitHub.🧸🌸🎀
